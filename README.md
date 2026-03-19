@@ -1,16 +1,33 @@
-## Hi there 👋
+🤖 AI Architect | Non-Coder by Design
+Year 04
 
-<!--
-**Nmeterfeldweg/Nmeterfeldweg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is not a portfolio.
+This is an archive of things that insisted on existing.
 
-Here are some ideas to get you started:
+Tools nobody asked for.
+Systems that solve problems nobody defined.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don’t write code.
+I construct intent.
+
+The Workflow:   0% hand-typed. 100% AI-forged.
+Prompts in. Systems out.
+
+The Focus:      Broken assumptions.
+Inconvenient physics.
+Metrics that shouldn’t work — but do.
+
+The Stack:      Irrelevant.
+Python · ESP32 · Pydroid3 · Linux
+Whatever bends reality fastest.
+
+The Philosophy:
+Ideas are the only scarce resource.
+Everything else is tooling.
+
+─────────────────────────────────────────────
+"Code is a language.
+Prompts are leverage.
+Architects don’t build — they cause building."
+— Year 04 Manifesto
+─────────────────────────────────────────────
