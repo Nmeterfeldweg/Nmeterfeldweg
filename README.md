@@ -25,9 +25,9 @@ The Philosophy:
 Ideas are the only scarce resource.
 Everything else is tooling.
 
-─────────────────────────────────────────────
+──────────────────
 "Code is a language.
 Prompts are leverage.
 Architects don’t build — they cause building."
 — Year 04 Manifesto
-─────────────────────────────────────────────
+──────────────────
